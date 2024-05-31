@@ -2,6 +2,9 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ * Главное окно программы
+ */
 public class MainFrame extends JFrame {
     private JTextField productTypeIdField;
     private JTextField materialTypeIdField;
